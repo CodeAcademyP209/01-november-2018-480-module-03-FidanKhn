@@ -1,0 +1,45 @@
+.body{
+	margin: 0px;
+	padding: 0px;
+
+}
+#firstpart{
+	background: url("../images/hero-area.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#firstpart:hover{
+	background-color: blue;
+}
+.header{
+	width: 1024px;
+	padding: auto;
+	max-width: 1024px;
+	min-width: 1024px;
+}
+.headerpart{
+	display: inline-block;
+}
+.headerpart ul{
+	display: inline-block;
+	width: 0px;
+	height: 0px;
+}
+#cite-logo h1 a{
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+	width: 0px;
+	height: 500px;
+	padding: inherit;
+}
+#header-menu{
+	padding: 0px;
+}
+#header-menu ul li{
+	display: inline-block;
+	width: 100%;
+}
+.header-menu ul li{
+	display: inline-block;
+}
